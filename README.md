@@ -1,2 +1,2 @@
-# Tr-gert-ftler
+# Traegertueftler
 Script for Trägertüftler Application
